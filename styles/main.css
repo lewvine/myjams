@@ -30,6 +30,9 @@ body.landing{
     position: relative;
     left: 2rem;
     cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
 }
 
 .navbar .links-container{
